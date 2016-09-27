@@ -7,7 +7,7 @@ public class Buddyinfo {
 	public Buddyinfo() {
 		name = "Henry";
 		phoneNumber = 12;
-		address = "Fake";
+		address = "Not Fake";
 	}
 	
 	public static void main(String[] args) { 
