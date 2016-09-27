@@ -26,6 +26,8 @@ public class Buddyinfo {
 	public String getName() {
 		return name;
 	}
+	
+	public void thatCodeThought(){}
 
 	public void setName(String name) {
 		this.name = name;
